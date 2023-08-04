@@ -5,7 +5,7 @@ Arrays and String Questions Solved
 
 #### 1. Hello , in this repository we will do Arrays and String questions from basic to advance level .
 #### 2. We will use Java Programming language for solving the questions 
-#### 3. The String questions solved in this repo are as follows :
+#### 3. The questions solved in this repo are as follows :
     1. Reverse a String: Write a function to reverse a given string. For example, if the input is "hello," the output should be "olleh." 
     
     2. Find Duplicate Elements in an Array: Given an array of integers, write a function to find and return any duplicate elements present in the array. 
@@ -26,28 +26,26 @@ Arrays and String Questions Solved
     
     10. Array Partitioning: Given an array of integers, rearrange the elements such that all the even numbers come before the odd numbers, and the relative order of even and odd numbers remains the same.
     
-#### 4. The Array questions solved in this repo are as follows :
-    1. Longest Increasing Subsequence (LIS): Given an array of integers, find the length of the longest increasing subsequence. For example, in the array [10, 22, 9, 33, 21, 50, 41, 60, 80], the LIS is [10, 22, 33, 50, 60, 80] with a length of 6.
+    11. Longest Increasing Subsequence (LIS): Given an array of integers, find the length of the longest increasing subsequence. For example, in the array [10, 22, 9, 33, 21, 50, 41, 60, 80], the LIS is [10, 22, 33, 50, 60, 80] with a length of 6.
     
-    2. Maximum Subarray Sum: Given an array of integers, find the contiguous subarray with the largest sum. For example, in the array [-2, 1, -3, 4, -1, 2, 1, -5, 4], the maximum subarray sum is 6 (the subarray [4, -1, 2, 1]).
+    12. Maximum Subarray Sum: Given an array of integers, find the contiguous subarray with the largest sum. For example, in the array [-2, 1, -3, 4, -1, 2, 1, -5, 4], the maximum subarray sum is 6 (the subarray [4, -1, 2, 1]).
     
-    3. Coin Change: Given a target amount and a list of coin denominations, find the minimum number of coins needed to make up that amount. This is a classic coin change problem.
+    13. Coin Change: Given a target amount and a list of coin denominations, find the minimum number of coins needed to make up that amount. This is a classic coin change problem.
    
-    4. Edit Distance: Given two strings, find the minimum number of operations (insert, remove, or replace) required to convert one string into another.
+    14. Edit Distance: Given two strings, find the minimum number of operations (insert, remove, or replace) required to convert one string into another.
     
-    5. Longest Common Subsequence (LCS): Given two strings, find the length of the longest common subsequence. A subsequence is a sequence that appears in the same relative order but not necessarily contiguous.
+    15. Longest Common Subsequence (LCS): Given two strings, find the length of the longest common subsequence. A subsequence is a sequence that appears in the same relative order but not necessarily contiguous.
     
-    6. Palindrome Partitioning: Given a string, divide it into the minimum number of palindromes (substrings that read the same forward and backward).
+    16. Palindrome Partitioning: Given a string, divide it into the minimum number of palindromes (substrings that read the same forward and backward).
    
-    7. Word Break: Given a string and a dictionary of words, determine if the string can be segmented into a space-separated sequence of words from the dictionary.
+    17. Word Break: Given a string and a dictionary of words, determine if the string can be segmented into a space-separated sequence of words from the dictionary.
     
-    8. Longest Palindromic Substring: Given a string, find the longest substring that is a palindrome.
+    18. Longest Palindromic Substring: Given a string, find the longest substring that is a palindrome.
     
-    9. Minimum Window Substring: Given two strings S and T, find the minimum window in S that contains all the characters from T.
+    19. Minimum Window Substring: Given two strings S and T, find the minimum window in S that contains all the characters from T.
     
-    10. Regular Expression Matching: Given a string S and a pattern P, implement regular expression matching with support for '.' (Matches any character) and '*' (matches zero or more of the preceding element)
-   
-#### 5. There are two Branches , one for Arrays and one for String related questions  
-### 6. My Socials 🥰
+    20. Regular Expression Matching: Given a string S and a pattern P, implement regular expression matching with support for '.' (Matches any character) and '*' (matches zero or more of the preceding element)
+     
+### 4. My Socials 🥰
  Github: <https://github.com/Harsheeta-kapoor> 
  LinkedIn : <https://www.linkedin.com/in/harsheeta-kapoor-86461b1a0/>
